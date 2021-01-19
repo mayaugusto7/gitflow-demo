@@ -26,8 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="091cdfe4-5482-4918-aef1-15c453760d11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/end.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/end.html" beforeDir="false" afterPath="$PROJECT_DIR$/end.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,8 +64,8 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="feature/feature_branch2" />
-                    <option name="lastUsedInstant" value="1611074588" />
+                    <option name="branchName" value="hotfix/hotfix_branch" />
+                    <option name="lastUsedInstant" value="1611075278" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="develop" />
